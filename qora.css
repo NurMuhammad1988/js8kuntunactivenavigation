@@ -1,6 +1,7 @@
 body{
     text-align: center;
     background-color: black;
+    transition: 3s;
 }
 
 button{
@@ -8,12 +9,10 @@ button{
     background: white;
     color: black;
     border-radius: 6px;
-    
 }
 
 h1{
-
-    color: red;
+    color: white;
 }
 
 

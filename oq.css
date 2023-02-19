@@ -1,6 +1,7 @@
 body{
     text-align: center;
     background: rgba(0, 0, 0, 0.644);
+    transition: 3s;
 }
 
 button{

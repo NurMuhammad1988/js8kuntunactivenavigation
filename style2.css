@@ -1,0 +1,95 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    text-align: center;
+    background: darkseagreen;
+}
+
+.menu{
+    position: relative;
+    margin: 20px;
+    margin: auto;
+}
+
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px ;
+}
+
+nav{
+    background: rgba(0, 0, 139, 0.432);
+    width: 100%;
+
+}
+
+nav ul li a{
+    font-size: 25px;
+    color: green;
+}
+
+
+ul li :hover{
+    color: wheat;
+}
+
+span{
+    position: absolute;
+    bottom: 0;
+    width: 80px;
+    height: 2px;
+    background: green;
+    transform: translateX(-685px);
+    background-color: brown;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+}
+
+#top1{
+    position: absolute;
+    top: 0;
+    width: 80px;
+    height: 2px;
+    background: green;
+    transform: translateX(-685px);
+    background-color: lawngreen;
+    margin-top: 10px;
+}   
+
+
+#hom{
+    height: 100vh;
+    background:rebeccapurple;
+
+}
+
+#aboute{
+    height: 100vh;
+    background: red;
+
+}
+
+#projects{
+    height: 100vh;
+    background: blue;
+}
+
+#servis{
+    height: 100vh;
+    background: goldenrod;
+
+}
+
+#contact{
+    height: 100vh;
+    background: pink;
+
+}
